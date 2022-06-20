@@ -17,7 +17,7 @@ const Card = (props) => {
                             <span className='small'>هزار تومان</span>
                         </div>
                         <div>
-                            <Link href="/سبد خرید"><a><div className=' d-inline-flex align-items-center justify-content-center text-white px-3 h1 mb-0 w-100 h-100 bg-primary'>
+                            <Link href="/سبد خرید"><a><div  className=' d-inline-flex align-items-center justify-content-center text-white px-3 h1 mb-0 w-100 h-100 bg-primary'>
                                 <AddShoppingCartIcon />                        </div></a></Link>
                         </div>
                     </div>
