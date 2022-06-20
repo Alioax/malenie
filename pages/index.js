@@ -55,7 +55,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div class="position-absolute overlay overflow-hidden vh-100 z-index-n1 w-100 top-0 start-50 translate-middle-x">
+        <div className="position-absolute overlay overflow-hidden vh-100 z-index-n1 w-100 top-0 start-50 translate-middle-x">
           <Image className=' img-fluid' src={bg} alt="Picture of the author" />
         </div>
         <div className=' bg-light'>
