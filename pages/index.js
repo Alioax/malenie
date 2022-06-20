@@ -24,7 +24,7 @@ export default function Home() {
 
           <div className=' d-flex gx-lg-5 row row-cols-1 row-cols-lg-3'>
             <div className='col mb-3 mb-lg-0'>
-              <Link href='\products'><a>
+              <Link href='/products'><a>
                 <div className='card border-0'>
                   <Image className=' rounded-top card-image-top img-fluid' src={sismooni} alt="Picture of the author" />
                   <div className='card-body'>
@@ -34,7 +34,7 @@ export default function Home() {
               </a></Link>
             </div>
             <div className='col mb-3 mb-lg-0'>
-              <Link href='\products'><a>
+              <Link href='/products'><a>
                 <div className='card border-0'>
                   <Image className=' rounded-top card-image-top img-fluid' src={sismooni} alt="Picture of the author" />
                   <div className='card-body'>
